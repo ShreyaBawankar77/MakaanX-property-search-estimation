@@ -1,0 +1,13 @@
+INFO:     Started server process [12008]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Overpass lookup failed at https://overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+Overpass lookup failed at https://lz4.overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://lz4.overpass-api.de/api/interpreter
+Overpass lookup failed at https://overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+Overpass lookup failed at https://overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+Overpass lookup failed at https://overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+Overpass lookup failed at https://lz4.overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://lz4.overpass-api.de/api/interpreter
+Overpass lookup failed at https://overpass-api.de/api/interpreter: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+Overpass lookup failed at https://lz4.overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://lz4.overpass-api.de/api/interpreter
+Overpass lookup failed at https://overpass-api.de/api/interpreter: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter

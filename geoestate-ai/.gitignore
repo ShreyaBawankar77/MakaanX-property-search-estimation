@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+**/__pycache__/
+frontend/node_modules/
+frontend/dist/
+geoestate.db
+*.db
+backend/saved_models/*.joblib
+!backend/saved_models/house_price_model_v10.joblib
+frontend/.env
+frontend/.env.*
+!frontend/.env.example

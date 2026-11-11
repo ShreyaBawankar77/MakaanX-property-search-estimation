@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="makaanx-favicon" x1="22" y1="16" x2="100" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7D477"/>
+      <stop offset="0.46" stop-color="#E58A57"/>
+      <stop offset="1" stop-color="#2BAEA3"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="32" fill="url(#makaanx-favicon)"/>
+  <path d="M32 62L64 36L96 62" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 58V80.5C42 84.1 45 87 48.6 87H79.4C83 87 86 84.1 86 80.5V58" stroke="white" stroke-width="7" stroke-linejoin="round" fill="rgba(255,255,255,0.18)"/>
+  <path d="M56 58L64 66L72 58" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M54 87V74H74V87" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 48L64 20L100 48" stroke="rgba(255,255,255,0.58)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

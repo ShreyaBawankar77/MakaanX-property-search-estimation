@@ -1,0 +1,25 @@
+[2m8:36:07 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/predict[39m
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1864:16)
+[2m8:36:08 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/predict[39m
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1864:16)
+[2m8:36:18 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/predict[39m
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1864:16)
+[2m8:36:18 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/predict[39m
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1864:16)
+[2m8:36:18 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/predict[39m
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1864:16)
+[2m8:36:19 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/predict[39m
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1864:16)
+[2m8:36:19 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/predict[39m
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1864:16)
+[2m10:28:05 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mGoogle sign-in configuration could not be loaded. Error: Not Found
+    at http://localhost:5175/src/App.jsx?t=1794416284757:813:28
+[2m10:28:05 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mGoogle sign-in configuration could not be loaded. Error: Not Found
+    at http://localhost:5175/src/App.jsx?t=1794416284757:813:28

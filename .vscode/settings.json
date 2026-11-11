@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/geoestate-ai",
+    "${workspaceFolder}/geoestate-ai/backend"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/geoestate-ai",
+    "${workspaceFolder}/geoestate-ai/backend"
+  ]
+}
